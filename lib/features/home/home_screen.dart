@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import '../../core/theme.dart';
-import '../../core/app_state.dart';
 import '../../core/constants.dart';
+import '../../core/app_state.dart';
 import '../../ai/atlas_brain.dart';
 import '../../models/task_model.dart';
 import '../../services/database_service.dart';
